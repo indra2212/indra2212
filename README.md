@@ -1,6 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=00BFFF&height=200&section=header&text=Indra%20Kurniawan&fontSize=70&animation=fadeIn" />
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&height=100&lines=Indra+Kurniawan;Electronics+Designer;Software+Engineer" alt="Typing SVG" />
   <h3>Electronics Designer & Software Engineer</h3>
   
   <p align="center">
@@ -15,9 +14,9 @@
 ### 💫 About Me
 Saya adalah seorang pengembang yang berfokus pada persimpangan antara **Hardware Design** dan **Software Automation**. Saat ini, saya aktif mengembangkan alat bantu automasi untuk desain PCB serta membangun aplikasi web dinamis yang fungsional.
 
-- 🔭 **Sedang mengerjakan:** Automasi *ratnets* ke *clines* menggunakan Python untuk Allegro 17.
+- 🔭 **Sedang mengerjakan:** Sedang mengerjakan projek web development sebagai Frontend Web Development.
 - 🎓 **Latar Belakang:** Lulusan Rekayasa Perangkat Lunak & Mahasiswa Sistem Informasi.
-- ⚡ **Keahlian Khusus:** PCB Drafting (Copper layout, IO wiring, Part Placement) & Fullstack Web Development.
+- ⚡ **Keahlian Khusus:** PCB Drafting (Copper layout, IO wiring, Part Placement) & Junio Web Development.
 
 ---
 
